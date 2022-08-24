@@ -1,1 +1,1 @@
-# LojaSPFC
+# SPFC.agora
